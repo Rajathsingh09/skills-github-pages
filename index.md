@@ -1,6 +1,6 @@
 ---
-##author: myslef
-#title: Welcome to my blog
+## author: myslef
+# title: Welcome to my blog
 
 ---
 
